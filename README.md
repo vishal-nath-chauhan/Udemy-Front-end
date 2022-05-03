@@ -1,7 +1,7 @@
 # Udemy-Front-end
 Front end for Udemy
 
-##Task 1 (3/5/2022)
+## Task 1 (3/5/2022)
 
 Setup basic react app
 setup redux, redux-toolkit
